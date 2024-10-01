@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is yingjinghuisha, I am a cool boy. I love play football. I want to become a computer engineer. 
 <!--
 **yingjinghuisha/yingjinghuisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
